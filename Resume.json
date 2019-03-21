@@ -1,0 +1,40 @@
+{
+ "Education": [
+  "Matriculated",
+  "BBA Degree",
+  "Various Certificates"
+ ],
+ "Past Experience": [
+  "I worked at a Security Company for little over 6-years, I was the Operations Manager.",
+  "I am currently a Freelance Full Stack Developer seeking employment"
+ ],
+ "Tech Stack": [
+  "HTML5",
+  "CSS3",
+  "Sass",
+  "JavaScript",
+  "Node",
+  "Redux",
+  "Ramda",
+  "Mongoose",
+  "Tachyons",
+  "React",
+  "Express",
+  "Gulp",
+  "Webpack",
+  "NGINX",
+  "Babel",
+  "Git",
+  "GitHub",
+  "MongoDB",
+  "Firebasse"
+ ],
+ "Projects": [
+  "Chuck No Chuck React Web-App => https://codesandbox.io/s/github/MaddyBotha/ChuckNoChuck-App",
+  "React Test Web-App ==> https://github.com/MaddyBotha/react-test-app",
+  "Dragons API ==> https://github.com/MaddyBotha/Dragons-api"
+ ],
+ "Contact": [
+  "maddy_botha@outlook.com"
+ ]
+}
