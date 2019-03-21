@@ -16,6 +16,7 @@
   "inquirer": "^6.2.2"
  },
  "devDependencies": {},
+ "homepage": "https://github.com/MaddyBotha/Resume.js",
  "bin": {
   "maddybresume": "./index.js"
  }
