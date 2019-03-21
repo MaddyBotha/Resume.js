@@ -3,10 +3,7 @@
 ### Created using Node, Chalk & Inquirer.🤘
 
 
-👉Run
-````
-npm install --global maddybresume
-````.
+👉 Run
+````npm install --global maddybresume````.
 
-👉then in the terminal run `maddybresume`.
-
+👉 Then in the terminal run `maddybresume`.
